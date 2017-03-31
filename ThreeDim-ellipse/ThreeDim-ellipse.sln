@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "ThreeDim-ellipse", "ThreeDim-ellipse\ThreeDim-ellipse.vfproj", "{C56ADA17-94F6-4C20-A41A-0DDBFAF3D716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C56ADA17-94F6-4C20-A41A-0DDBFAF3D716}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C56ADA17-94F6-4C20-A41A-0DDBFAF3D716}.Debug|Win32.Build.0 = Debug|Win32
+		{C56ADA17-94F6-4C20-A41A-0DDBFAF3D716}.Release|Win32.ActiveCfg = Release|Win32
+		{C56ADA17-94F6-4C20-A41A-0DDBFAF3D716}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "ThreeDim", "ThreeDim\ThreeDim.vfproj", "{9F7F9506-40E7-4B3F-AC57-F3A7CFDC650F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F7F9506-40E7-4B3F-AC57-F3A7CFDC650F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9F7F9506-40E7-4B3F-AC57-F3A7CFDC650F}.Debug|Win32.Build.0 = Debug|Win32
+		{9F7F9506-40E7-4B3F-AC57-F3A7CFDC650F}.Release|Win32.ActiveCfg = Release|Win32
+		{9F7F9506-40E7-4B3F-AC57-F3A7CFDC650F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
